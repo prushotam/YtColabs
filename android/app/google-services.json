@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978377831559",
+    "project_id": "yt-colabs",
+    "storage_bucket": "yt-colabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978377831559:android:15aca768ea2c3a75793422",
+        "android_client_info": {
+          "package_name": "com.ytcolabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978377831559-vk1l3qtflr6mgnd2glta44599n7mh26v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ytcolabs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "978377831559-fvlhis6ralnbn73b3otkcc44o53opfrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJOx8rLAVpCyrZgekqAgF4xsoX2L6AmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978377831559-fvlhis6ralnbn73b3otkcc44o53opfrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GreatVibes-Regular.ttf",
+      "sha1": "4dd3bad8fb151d31eedee2676488f94f831bf515"
+    },
+    {
+      "path": "assets/fonts/Nunito-Regular.ttf",
+      "sha1": "4b7236ba666cb77f00d8cb2a17696cc0dc2b2cc9"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "8727a6ae26c6646a7f25bfe6560e19c9265ea87c"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "assets/fonts/Raleway-Bold.ttf",
+      "sha1": "fd799b6fb4aff1a9402e071ab02d1ddea731b868"
+    },
+    {
+      "path": "assets/fonts/Raleway-Regular.ttf",
+      "sha1": "c01aaff04ead4a08b89bcb81d3d3d954345eb67f"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Bold.ttf",
+      "sha1": "15e8faa21a00eb5b40d3837e16960a39d78fe45c"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Regular.ttf",
+      "sha1": "e0d7acf2ca3dd0ff68f533797bb94b0580397e95"
+    }
+  ]
+}
